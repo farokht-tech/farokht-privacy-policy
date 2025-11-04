@@ -5,7 +5,7 @@
 
 ---
 
-**Farokht Tech (Private) Limited** operates the **Farokht** mobile application (“App”) — Pakistan’s first content commerce platform where **content-driven shopping meets culture, storytelling, and community engagement**.
+**Farokht Tech (Private) Limited** operates the **Farokht** mobile application (“App”), Pakistan’s own content commerce platform where **content-driven shopping meets culture, storytelling, and community engagement**.
 
 
 Your privacy matters to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the Farokht mobile app, website, or any related services (collectively, the “Platform”).
