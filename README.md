@@ -21,19 +21,23 @@ We collect information to provide better services and experiences for all users.
 When you create an account as a **Brand** or **User**, we may collect:
 
 **Brand:**  
-Full name, email, contact number, city, address, CNIC, brand name, brand category, social media links, logo, and business website.  
+Full name, email, contact number, city, address, device token, CNIC, brand name, brand category, social media links, logo, banners, and business website.  
 
 **User:**  
-Full name, email, contact number, city, address, and CNIC.  
+Full name, email, contact number, city, address, category, device token and CNIC.
 
 During signup, your phone number or email may be verified via a **one-time password (OTP)** to ensure account security.
 
 ### b. Content Information
-Photos, videos, and text shared on the Platform, including product listings, brand details, comments, reviews, and chat messages.
+Photos, videos, and text shared on the Platform — including product listings, brand details, reels, stories, Farokht promotional content (ads), comments, reviews, and chat messages.
 
 ### c. Device & Technical Data
-Device identifiers, IP address, browser or OS type, and analytics data (e.g., app usage logs).  
-We also use cookies and similar technologies to improve functionality and personalize user experiences.
+We collect technical information to provide app functionality and improve performance.  
+This includes:
+- **Device tokens** for push notifications  
+- **Device identifiers, app version, and OS type** via Firebase Analytics  
+
+No other device identifiers, IP addresses, or browser data are collected.
 
 ---
 
@@ -68,14 +72,16 @@ We **do not sell** your personal information to advertisers or external parties.
 
 ---
 
-## 4. Cookies and Tracking
+ ## 4. Local Storage and Tracking
 
-We use cookies and related technologies to:
+We use **local storage (AsyncStorage)** to:
+
 - Keep you logged in  
-- Remember preferences  
-- Analyze app usage  
+- Remember app preferences  
+- Store temporary app data for functionality
 
-You can manage or disable cookies in your device settings, though some features may not function correctly.
+We do **not** use cookies or any browser-based tracking.  
+Disabling local storage may affect app functionality.
 
 ---
 
@@ -115,8 +121,9 @@ We do not knowingly collect personal data from minors. If such data is identifie
 
 ## 9. Third-Party Links
 
-Our app may contain links to third-party websites or services.  
-We are not responsible for their content or privacy practices. Please review their privacy policies separately.
+Brands on Farokht may include links to their own websites or social media profiles.  
+We are **not responsible** for the content, privacy practices, or security of these external sites.  
+Please review the privacy policies of any third-party websites you visit through brand-provided links.
 
 ---
 
