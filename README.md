@@ -41,14 +41,16 @@ We also use cookies and similar technologies to improve functionality and person
 
 Your information is used to:
 
-- Operate, maintain, and improve the Platform and services.  
-- Facilitate orders, payments, and deliveries.  
+- Operate, maintain, and improve the Platform and its services.  
+- Facilitate product browsing, order placement, and delivery coordination.  
 - Personalize recommendations and shopping experiences.  
 - Enable social features such as likes, comments, and messaging.  
 - Send relevant notifications related to app activity.  
 - Prevent fraud and enhance security.  
 - Communicate updates, offers, and support-related messages.  
 - Analyze app performance and fix bugs or crashes.
+
+> **Note:** Online payments are not yet active on Farokht. Orders are currently processed through direct or cash-on-delivery methods. Once online payments are introduced, this Privacy Policy will be updated to reflect that process.
 
 ---
 
@@ -57,7 +59,7 @@ Your information is used to:
 We share data only as necessary to operate our services or comply with the law:
 
 - **Sellers and Brands:** To process orders and manage returns.  
-- **Service Providers:** Payment gateways, logistics, and analytics partners.  
+- **Service Providers:** Logistics, analytics, and hosting partners that help improve platform performance.  
 - **Third-Party Tools:** We use SDKs (such as Google Firebase, Google Analytics, and push notification services) to improve app performance. These tools may collect limited technical data per their own privacy policies.  
 - **Regulatory Authorities:** If legally required.  
 - **Creators:** When you interact with their content, limited engagement data may be visible.
