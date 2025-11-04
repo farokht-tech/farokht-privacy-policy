@@ -101,8 +101,9 @@ You have the right to:
 - Withdraw consent for marketing communications  
 - Request a copy of your data in a readable format  
 
-You can request deletion via your in-app settings or by emailing **teamfarokht@gmail.com**.  
+You can request deletion via your in-app settings, by emailing **teamfarokht@gmail.com**, or through our website at **[https://www.farokht.pk](https://www.farokht.pk)**.  
 All verified data deletion requests are processed within **90 days**.
+
 
 ---
 
